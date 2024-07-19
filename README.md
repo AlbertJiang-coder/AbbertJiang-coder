@@ -1,2 +1,4 @@
-# AbbertJiang-coder
-My personal repository
+# About me
+- 😀 一名热爱技术的学生
+- ✔ 喜欢运动、健身
+  
